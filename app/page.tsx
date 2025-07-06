@@ -405,7 +405,7 @@ export default function App() {
       {/* Contact Section */}
       <section id="contact" className="min-h-[70vh] flex flex-col justify-center items-center py-20 px-4 sm:px-6 lg:px-8 bg-black text-center">
         <div className="max-w-4xl mx-auto">
-          <p className="text-md sm:text-lg text-green-500 font-medium flex items-center justify-center gap-2 uppercase mb-4">
+          <p className="text-md sm:text-lg text-blue-600 font-medium flex items-center justify-center gap-2 uppercase mb-4">
             <span className="relative flex h-3 w-3">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-600 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-3 w-3 bg-blue-600"></span>
