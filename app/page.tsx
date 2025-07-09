@@ -27,12 +27,12 @@ const NAV_ITEMS = [
 const PROJECTS_DATA = [
   {
     id: 1,
-    title: "Nabil",
-    description: "Assets Berharga WR",
-    year: "Coming Soon",
-    image: "/assets/img/nabil.jpg",
-    link: "#", // Changed to # for now, as it's a placeholder
-    type: "Narkoboy"
+    title: "Weather",
+    description: "Application to check the weather in your area",
+    year: "2025",
+    image: "/assets/project/weather.jpg",
+    link: "https://weather-eta-teal-97.vercel.app/",
+    type: "Weather"
   },
   // Add more projects here if needed
 ];
