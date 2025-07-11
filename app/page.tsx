@@ -32,14 +32,12 @@ const PROJECTS_DATA = [
     year: "2025",
     image: "/assets/project/weather.jpg",
     link: "https://weather-eta-teal-97.vercel.app/",
-    type: "Weather"
+    type: "Web Application",
   },
   // Add more projects here if needed
 ];
 
 const LANGUAGE_FRAMEWORK_DATA = [
-  { name: "Laravel", icon: "/assets/icons/laravel.svg", color: "#FF2D20" },
-  { name: "React", icon: "/assets/icons/react.svg", color: "#61DAFB" },
   { name: "Next.js", icon: "/assets/icons/nextjs.svg", color: "#FFFFFF" },
   { name: "TypeScript", icon: "/assets/icons/typescript.svg", color: "#3178C6" },
   { name: "Node.js", icon: "/assets/icons/nodejs.svg", color: "#339933" },
@@ -50,8 +48,7 @@ const LANGUAGE_FRAMEWORK_DATA = [
   { name: "HTML", icon: "/assets/icons/html.svg", color: "#E34F26" },
   { name: "CSS", icon: "/assets/icons/css.svg", color: "#1572B6" },
   { name: "JavaScript", icon: "/assets/icons/javascript.svg", color: "#F7DF1E" },
-  { name: "Vue.js", icon: "/assets/icons/vuejs.svg", color: "#4FC08D" },
-  { name: "SQL", icon: "/assets/icons/sql.svg", color: "#4479A1" },
+  { name: "MySQL", icon: "/assets/icons/sql.svg", color: "#4479A1" },
   { name: "Github", icon: "/assets/icons/github.svg", color: "#181717" },
 ];
 
@@ -186,8 +183,8 @@ export default function App() {
       <div className="overflow-hidden whitespace-nowrap py-4 mb-16">
         <div className="inline-block animate-marquee">
           <span className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-800 uppercase px-8 flex items-center">
-            BISMILLAH <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> FULLSTACK <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> DEVELOPER <Sparkle className="mx-4 inline-block text-gray-800" size={40} />
-            BISMILLAH <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> FULLSTACK <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> DEVELOPER <Sparkle className="mx-4 inline-block text-gray-800" size={40} />
+            GOALS TO <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> FULLSTACK <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> DEVELOPER <Sparkle className="mx-4 inline-block text-gray-800" size={40} />
+            GOALS TO <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> FULLSTACK <Sparkle className="mx-4 inline-block text-gray-800" size={40} /> DEVELOPER <Sparkle className="mx-4 inline-block text-gray-800" size={40} />
           </span>
         </div>
       </div>
@@ -205,7 +202,7 @@ export default function App() {
           <div className="flex-grow flex items-center justify-center">
             <div className="max-w-5xl">
               <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl mb-6 leading-tight text-white">
-                I’m Arul Fitrah Insani, with over 5+ years of experience in design & development with strong focus on producing high quality & impactful digital experiences. I have worked with some of the most innovative industry leaders to help build their top-notch products.
+                I’m Arul Fitrah Insani, a recent graduate with 5 months of experience as an IT staff. I focus on providing technical explanations, troubleshooting problems, and contributing to system operational efficiency. I’m passionate about continuing to learn and applying my skills in a dynamic environment to build quality digital experiences.
               </p>
             </div>
           </div>
